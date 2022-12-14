@@ -77,13 +77,13 @@ while True:
     else:
         print("Pilih menu yang tersedia")
 
-    Hasil Run
-Tambah data ![image.png](screenshot/Screenshot%20(67).png)
-Lihat data  ![image.png](screenshot/Screenshot%20(68).png)
-Ubah data   ![image.png](screenshot/Screenshot%20(69).png)
-Hapus data  ![image.png](screenshot/Screenshot%20(70).png)
-cari data   ![image.png](screenshot/Screenshot%20(71).png)
-keluar      ![image.png](screenshot/Screenshot%20(72).png)
+ 
+HASIL RUN = Tambah data ![image.png](screenshot/Screenshot%20(67).png)
+            Lihat data  ![image.png](screenshot/Screenshot%20(68).png)
+            Ubah data   ![image.png](screenshot/Screenshot%20(69).png)
+            Hapus data  ![image.png](screenshot/Screenshot%20(70).png)
+            cari data   ![image.png](screenshot/Screenshot%20(71).png)
+            keluar      ![image.png](screenshot/Screenshot%20(72).png)
 
 
 Penjelasan Program :
